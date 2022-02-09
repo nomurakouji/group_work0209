@@ -3,7 +3,7 @@
 4 hoge
 3 コンフリクトするのは怖い hoge
 5 
-6 hoge
+6 
 7 hoge
 9 hoge
 8 hoge
